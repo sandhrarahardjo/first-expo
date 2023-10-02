@@ -15,9 +15,6 @@ export const styles = {
     color: 'white',
   },
   card: {
-    borderWidth: 1,
-    borderColor: '#ccc',
-    borderRadius: 5,
     padding: 10,
     marginVertical: 10,
     backgroundColor: 'lightcyan',
@@ -29,7 +26,7 @@ export const styles = {
     marginBottom: 10,
   },
   openButton: {
-    backgroundColor: '#007BFF',
+    backgroundColor: 'blue',
     padding: 10,
     borderRadius: 5,
     alignItems: 'center',
